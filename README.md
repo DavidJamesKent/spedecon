@@ -1,0 +1,3 @@
+This repository holds the git repository for development of the `spedecon` R package, available on [CRAN](https://cran.r-project.org/) at [https://cran.r-project.org/web/packages/spedecon/](https://cran.r-project.org/web/packages/spedecon/).
+The `spedecon` package implements the *Smoothness-Penalized Deconvolution* method of [Kent and Ruppert (2023)](https://doi.org/10.1080/01621459.2023.2259028).
+This method was abbreviated "SPeD" in the paper, but sadly, there is already a package called `sped`, so we have settled for `spedecon`, abbreviating ***S***moothness-***Pe***nalized ***Decon***volution.
